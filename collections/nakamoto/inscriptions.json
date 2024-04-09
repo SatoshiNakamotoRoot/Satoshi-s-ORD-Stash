@@ -21,7 +21,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "1"
         },
         {
@@ -61,7 +61,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "2"
         },
         {
@@ -101,7 +101,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "3"
         },
         {
@@ -141,7 +141,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "4"
         },
         {
@@ -181,7 +181,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "5"
         },
         {
@@ -221,7 +221,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "6"
         },
         {
@@ -261,7 +261,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "7"
         },
         {
@@ -301,7 +301,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "8"
         },
         {
@@ -341,7 +341,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "9"
         },
         {
@@ -381,7 +381,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "10"
         },
         {
@@ -421,7 +421,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "11"
         },
         {
@@ -461,7 +461,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "12"
         },
         {
@@ -501,7 +501,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "13"
         },
         {
@@ -541,7 +541,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "14"
         },
         {
@@ -581,7 +581,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "15"
         },
         {
@@ -621,7 +621,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "16"
         },
         {
@@ -661,7 +661,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "17"
         },
         {
@@ -701,7 +701,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "18"
         },
         {
@@ -741,7 +741,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "19"
         },
         {
@@ -781,7 +781,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "20"
         },
         {
@@ -821,7 +821,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "21"
         },
         {
@@ -861,7 +861,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "22"
         },
         {
@@ -901,7 +901,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "23"
         },
         {
@@ -941,7 +941,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "24"
         },
         {
@@ -981,7 +981,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "25"
         },
         {
@@ -1021,7 +1021,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "26"
         },
         {
@@ -1061,7 +1061,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "27"
         },
         {
@@ -1101,7 +1101,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "28"
         },
         {
@@ -1141,7 +1141,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "29"
         },
         {
@@ -1181,7 +1181,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "30"
         },
         {
@@ -1221,7 +1221,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "31"
         },
         {
@@ -1261,7 +1261,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "32"
         },
         {
@@ -1301,7 +1301,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "33"
         },
         {
@@ -1341,7 +1341,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "34"
         },
         {
@@ -1381,7 +1381,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "35"
         },
         {
@@ -1421,7 +1421,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "36"
         },
         {
@@ -1461,7 +1461,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "37"
         },
         {
@@ -1501,7 +1501,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "38"
         },
         {
@@ -1541,7 +1541,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "39"
         },
         {
@@ -1581,7 +1581,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "40"
         },
         {
@@ -1621,7 +1621,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "41"
         },
         {
@@ -1661,7 +1661,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "42"
         },
         {
@@ -1701,7 +1701,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "43"
         },
         {
@@ -1741,7 +1741,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "44"
         },
         {
@@ -1781,7 +1781,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "45"
         },
         {
@@ -1821,7 +1821,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "46"
         },
         {
@@ -1861,7 +1861,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "47"
         },
         {
@@ -1901,7 +1901,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "48"
         },
         {
@@ -1941,7 +1941,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "49"
         },
         {
@@ -1981,7 +1981,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "50"
         },
         {
@@ -2021,7 +2021,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "51"
         },
         {
@@ -2061,7 +2061,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "52"
         },
         {
@@ -2101,7 +2101,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "53"
         },
         {
@@ -2141,7 +2141,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "54"
         },
         {
@@ -2181,7 +2181,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "55"
         },
         {
@@ -2221,7 +2221,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "56"
         },
         {
@@ -2261,7 +2261,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "57"
         },
         {
@@ -2301,7 +2301,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "58"
         },
         {
@@ -2341,7 +2341,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "59"
         },
         {
@@ -2381,7 +2381,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "60"
         },
         {
@@ -2421,7 +2421,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "61"
         },
         {
@@ -2461,7 +2461,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "62"
         },
         {
@@ -2501,7 +2501,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "63"
         },
         {
@@ -2541,7 +2541,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "64"
         },
         {
@@ -2581,7 +2581,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "65"
         },
         {
@@ -2621,7 +2621,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "66"
         },
         {
@@ -2661,7 +2661,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "67"
         },
         {
@@ -2701,7 +2701,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "68"
         },
         {
@@ -2741,7 +2741,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "69"
         },
         {
@@ -2781,7 +2781,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "70"
         },
         {
@@ -2821,7 +2821,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "71"
         },
         {
@@ -2861,7 +2861,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "72"
         },
         {
@@ -2901,7 +2901,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "73"
         },
         {
@@ -2941,7 +2941,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "74"
         },
         {
@@ -2981,7 +2981,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "75"
         },
         {
@@ -3021,7 +3021,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "76"
         },
         {
@@ -3061,7 +3061,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "77"
         },
         {
@@ -3101,7 +3101,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "78"
         },
         {
@@ -3141,7 +3141,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "79"
         },
         {
@@ -3181,7 +3181,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "80"
         },
         {
@@ -3221,7 +3221,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "81"
         },
         {
@@ -3261,7 +3261,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "82"
         },
         {
@@ -3301,7 +3301,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "83"
         },
         {
@@ -3341,7 +3341,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "84"
         },
         {
@@ -3381,7 +3381,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "85"
         },
         {
@@ -3421,7 +3421,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "86"
         },
         {
@@ -3461,7 +3461,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "87"
         },
         {
@@ -3501,7 +3501,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "88"
         },
         {
@@ -3541,7 +3541,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "89"
         },
         {
@@ -3581,7 +3581,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "90"
         },
         {
@@ -3621,7 +3621,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "91"
         },
         {
@@ -3661,7 +3661,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "92"
         },
         {
@@ -3701,7 +3701,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "93"
         },
         {
@@ -3741,7 +3741,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "94"
         },
         {
@@ -3781,7 +3781,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "95"
         },
         {
@@ -3821,7 +3821,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "96"
         },
         {
@@ -3861,7 +3861,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "97"
         },
         {
@@ -3901,7 +3901,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "98"
         },
         {
@@ -3941,7 +3941,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "99"
         },
         {
@@ -3981,7 +3981,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "100"
         },
         {
@@ -4021,7 +4021,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "101"
         },
         {
@@ -4061,7 +4061,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "102"
         },
         {
@@ -4101,7 +4101,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "103"
         },
         {
@@ -4141,7 +4141,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "104"
         },
         {
@@ -4181,7 +4181,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "105"
         },
         {
@@ -4221,7 +4221,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "106"
         },
         {
@@ -4261,7 +4261,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "107"
         },
         {
@@ -4301,7 +4301,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "108"
         },
         {
@@ -4341,7 +4341,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "109"
         },
         {
@@ -4381,7 +4381,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "110"
         },
         {
@@ -4421,7 +4421,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "111"
         },
         {
@@ -4461,7 +4461,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "112"
         },
         {
@@ -4501,7 +4501,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "113"
         },
         {
@@ -4541,7 +4541,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "114"
         },
         {
@@ -4581,7 +4581,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "115"
         },
         {
@@ -4621,7 +4621,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "116"
         },
         {
@@ -4661,7 +4661,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "117"
         },
         {
@@ -4701,7 +4701,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "118"
         },
         {
@@ -4741,7 +4741,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "119"
         },
         {
@@ -4781,7 +4781,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "120"
         },
         {
@@ -4821,7 +4821,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "121"
         },
         {
@@ -4861,7 +4861,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "122"
         },
         {
@@ -4901,7 +4901,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "123"
         },
         {
@@ -4941,7 +4941,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "124"
         },
         {
@@ -4981,7 +4981,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "125"
         },
         {
@@ -5021,7 +5021,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "126"
         },
         {
@@ -5061,7 +5061,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "127"
         },
         {
@@ -5101,7 +5101,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "128"
         },
         {
@@ -5141,7 +5141,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "129"
         },
         {
@@ -5181,7 +5181,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "130"
         },
         {
@@ -5221,7 +5221,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "131"
         },
         {
@@ -5261,7 +5261,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "132"
         },
         {
@@ -5301,7 +5301,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "133"
         },
         {
@@ -5341,7 +5341,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "134"
         },
         {
@@ -5381,7 +5381,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "135"
         },
         {
@@ -5421,7 +5421,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "136"
         },
         {
@@ -5461,7 +5461,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "137"
         },
         {
@@ -5501,7 +5501,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "138"
         },
         {
@@ -5541,7 +5541,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "139"
         },
         {
@@ -5581,7 +5581,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "140"
         },
         {
@@ -5621,7 +5621,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "141"
         },
         {
@@ -5661,7 +5661,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "142"
         },
         {
@@ -5701,7 +5701,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "143"
         },
         {
@@ -5741,7 +5741,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "144"
         },
         {
@@ -5781,7 +5781,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "145"
         },
         {
@@ -5821,7 +5821,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "146"
         },
         {
@@ -5861,7 +5861,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "147"
         },
         {
@@ -5901,7 +5901,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "148"
         },
         {
@@ -5941,7 +5941,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "149"
         },
         {
@@ -5981,7 +5981,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "150"
         },
         {
@@ -6021,7 +6021,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "151"
         },
         {
@@ -6061,7 +6061,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "152"
         },
         {
@@ -6101,7 +6101,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "153"
         },
         {
@@ -6141,7 +6141,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "154"
         },
         {
@@ -6181,7 +6181,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "155"
         },
         {
@@ -6221,7 +6221,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "156"
         },
         {
@@ -6261,7 +6261,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "157"
         },
         {
@@ -6301,7 +6301,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "158"
         },
         {
@@ -6341,7 +6341,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "159"
         },
         {
@@ -6381,7 +6381,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "160"
         },
         {
@@ -6421,7 +6421,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "161"
         },
         {
@@ -6461,7 +6461,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "162"
         },
         {
@@ -6501,7 +6501,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "163"
         },
         {
@@ -6541,7 +6541,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "164"
         },
         {
@@ -6581,7 +6581,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "165"
         },
         {
@@ -6621,7 +6621,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "166"
         },
         {
@@ -6661,7 +6661,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "167"
         },
         {
@@ -6701,7 +6701,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "168"
         },
         {
@@ -6741,7 +6741,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "169"
         },
         {
@@ -6781,7 +6781,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "170"
         },
         {
@@ -6821,7 +6821,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "171"
         },
         {
@@ -6861,7 +6861,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "172"
         },
         {
@@ -6901,7 +6901,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "173"
         },
         {
@@ -6941,7 +6941,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "174"
         },
         {
@@ -6981,7 +6981,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "175"
         },
         {
@@ -7021,7 +7021,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "176"
         },
         {
@@ -7061,7 +7061,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "177"
         },
         {
@@ -7101,7 +7101,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "178"
         },
         {
@@ -7141,7 +7141,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "179"
         },
         {
@@ -7181,7 +7181,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "180"
         },
         {
@@ -7221,7 +7221,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "181"
         },
         {
@@ -7261,7 +7261,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "182"
         },
         {
@@ -7301,7 +7301,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "183"
         },
         {
@@ -7341,7 +7341,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "184"
         },
         {
@@ -7381,7 +7381,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "185"
         },
         {
@@ -7421,7 +7421,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "186"
         },
         {
@@ -7461,7 +7461,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "187"
         },
         {
@@ -7501,7 +7501,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "188"
         },
         {
@@ -7541,7 +7541,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "189"
         },
         {
@@ -7581,7 +7581,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "190"
         },
         {
@@ -7621,7 +7621,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "191"
         },
         {
@@ -7661,7 +7661,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "192"
         },
         {
@@ -7701,7 +7701,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "193"
         },
         {
@@ -7741,7 +7741,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "194"
         },
         {
@@ -7781,7 +7781,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "195"
         },
         {
@@ -7821,7 +7821,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "196"
         },
         {
@@ -7861,7 +7861,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "197"
         },
         {
@@ -7901,7 +7901,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "198"
         },
         {
@@ -7941,7 +7941,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "199"
         },
         {
@@ -7981,7 +7981,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "200"
         },
         {
@@ -8021,7 +8021,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "201"
         },
         {
@@ -8061,7 +8061,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "202"
         },
         {
@@ -8101,7 +8101,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "203"
         },
         {
@@ -8141,7 +8141,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "204"
         },
         {
@@ -8181,7 +8181,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "205"
         },
         {
@@ -8221,7 +8221,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "206"
         },
         {
@@ -8261,7 +8261,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "207"
         },
         {
@@ -8301,7 +8301,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "208"
         },
         {
@@ -8341,7 +8341,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "209"
         },
         {
@@ -8381,7 +8381,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "210"
         },
         {
@@ -8421,7 +8421,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "211"
         },
         {
@@ -8461,7 +8461,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "212"
         },
         {
@@ -8501,7 +8501,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "213"
         },
         {
@@ -8541,7 +8541,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "214"
         },
         {
@@ -8581,7 +8581,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "215"
         },
         {
@@ -8621,7 +8621,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "216"
         },
         {
@@ -8661,7 +8661,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "217"
         },
         {
@@ -8701,7 +8701,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "218"
         },
         {
@@ -8741,7 +8741,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "219"
         },
         {
@@ -8781,7 +8781,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "220"
         },
         {
@@ -8821,7 +8821,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "221"
         },
         {
@@ -8861,7 +8861,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "222"
         },
         {
@@ -8901,7 +8901,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "223"
         },
         {
@@ -8941,7 +8941,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "224"
         },
         {
@@ -8981,7 +8981,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "225"
         },
         {
@@ -9021,7 +9021,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "226"
         },
         {
@@ -9061,7 +9061,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "227"
         },
         {
@@ -9101,7 +9101,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "228"
         },
         {
@@ -9141,7 +9141,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "229"
         },
         {
@@ -9181,7 +9181,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "230"
         },
         {
@@ -9221,7 +9221,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "231"
         },
         {
@@ -9261,7 +9261,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "232"
         },
         {
@@ -9301,7 +9301,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "233"
         },
         {
@@ -9341,7 +9341,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "234"
         },
         {
@@ -9381,7 +9381,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "235"
         },
         {
@@ -9421,7 +9421,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "236"
         },
         {
@@ -9461,7 +9461,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "237"
         },
         {
@@ -9501,7 +9501,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "238"
         },
         {
@@ -9541,7 +9541,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "239"
         },
         {
@@ -9581,7 +9581,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "240"
         },
         {
@@ -9621,7 +9621,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "241"
         },
         {
@@ -9661,7 +9661,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "242"
         },
         {
@@ -9701,7 +9701,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "243"
         },
         {
@@ -9741,7 +9741,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "244"
         },
         {
@@ -9781,7 +9781,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "245"
         },
         {
@@ -9821,7 +9821,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "246"
         },
         {
@@ -9861,7 +9861,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "247"
         },
         {
@@ -9901,7 +9901,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "248"
         },
         {
@@ -9941,7 +9941,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "249"
         },
         {
@@ -9981,7 +9981,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "250"
         },
         {
@@ -10021,7 +10021,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "251"
         },
         {
@@ -10061,7 +10061,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "252"
         },
         {
@@ -10101,7 +10101,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "253"
         },
         {
@@ -10141,7 +10141,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "254"
         },
         {
@@ -10181,7 +10181,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "255"
         },
         {
@@ -10221,7 +10221,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "256"
         },
         {
@@ -10261,7 +10261,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "257"
         },
         {
@@ -10301,7 +10301,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "258"
         },
         {
@@ -10341,7 +10341,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "259"
         },
         {
@@ -10381,7 +10381,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "260"
         },
         {
@@ -10421,7 +10421,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "261"
         },
         {
@@ -10461,7 +10461,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "262"
         },
         {
@@ -10501,7 +10501,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "263"
         },
         {
@@ -10541,7 +10541,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "264"
         },
         {
@@ -10581,7 +10581,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "265"
         },
         {
@@ -10621,7 +10621,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "266"
         },
         {
@@ -10661,7 +10661,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "267"
         },
         {
@@ -10701,7 +10701,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "268"
         },
         {
@@ -10741,7 +10741,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "269"
         },
         {
@@ -10781,7 +10781,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "270"
         },
         {
@@ -10821,7 +10821,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "271"
         },
         {
@@ -10861,7 +10861,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "272"
         },
         {
@@ -10901,7 +10901,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "273"
         },
         {
@@ -10941,7 +10941,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "274"
         },
         {
@@ -10981,7 +10981,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "275"
         },
         {
@@ -11021,7 +11021,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "276"
         },
         {
@@ -11061,7 +11061,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "277"
         },
         {
@@ -11101,7 +11101,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "278"
         },
         {
@@ -11141,7 +11141,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "279"
         },
         {
@@ -11181,7 +11181,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "280"
         },
         {
@@ -11221,7 +11221,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "281"
         },
         {
@@ -11261,7 +11261,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "282"
         },
         {
@@ -11301,7 +11301,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "283"
         },
         {
@@ -11341,7 +11341,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "284"
         },
         {
@@ -11381,7 +11381,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "285"
         },
         {
@@ -11421,7 +11421,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "286"
         },
         {
@@ -11461,7 +11461,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "287"
         },
         {
@@ -11501,7 +11501,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "288"
         },
         {
@@ -11541,7 +11541,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "289"
         },
         {
@@ -11581,7 +11581,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "290"
         },
         {
@@ -11621,7 +11621,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "291"
         },
         {
@@ -11661,7 +11661,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "292"
         },
         {
@@ -11701,7 +11701,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "293"
         },
         {
@@ -11741,7 +11741,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "294"
         },
         {
@@ -11781,7 +11781,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "295"
         },
         {
@@ -11821,7 +11821,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "296"
         },
         {
@@ -11861,7 +11861,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "297"
         },
         {
@@ -11901,7 +11901,7 @@
           "value": "Fire"
         },
         {
-          "trait_type": "Rareness_Score",
+          "trait_type": "Rarity",
           "value": "298"
         },
         {
