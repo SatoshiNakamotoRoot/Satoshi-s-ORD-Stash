@@ -23,7 +23,7 @@
 ]
 ```
 
-Artists can assign unqiue traits to ordinals with `attributes`
+Artists can assign unique traits to ordinals with `attributes`
 
 ```
 [
